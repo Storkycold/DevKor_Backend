@@ -15,3 +15,4 @@ app.get('/', (req, res) => {
 app.listen(port); 
 
 // js는 싱글 스레드에서 돌아간다. but 동시성 처리 가능 
+// todo list 작성하기 
